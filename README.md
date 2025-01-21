@@ -1,1 +1,1 @@
-квадрат и sin
+square and sin
